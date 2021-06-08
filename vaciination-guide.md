@@ -9,12 +9,13 @@
 ## Do's and Dont's
 
 ### Do's
-|&check; Put Electrogen D+ for 3 days before vaccination in their drinking water
-|&check; Storge: cover vaccine vial with paper, cloth or plastic to avoid it in direct contact with ice cubes.
-|&check; Mix the vaccine with dilluent when about to use
-|&check; Don't vaccinate when checkens are sick
+&check; Put Electrogen D+ for 3 days before vaccination in their drinking water  
+&check; Storge: cover vaccine vial with paper, cloth or plastic to avoid it in direct contact with ice cubes.  
+&check; Mix the vaccine with dilluent when about to use  
+&check; Don't vaccinate when checkens are sick
 
 ### Dont's
-|&cross; Vaccinate chicken when sick
-|&cross; Reuse vaccine after use
+&cross; Vaccinate chicken when sick  
+&cross; Reuse vaccine after use  
+
 
